@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h5, p {
 
 .header {
   h1 {
-    font-family: 'CodyStar', cursive;
+    // font-family: 'CodyStar', cursive;
     font-size: 1.5em; 
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -55,7 +55,7 @@ span {
   .list-item {
     @include span-columns(6);
     @include omega(2n);
-    font-family: 'CodyStar', cursive;
+    // font-family: 'CodyStar', cursive;
     font-size: 1.3em; 
     list-style: none;
     background: $base2;
@@ -81,6 +81,14 @@ span {
   }
 
 }
+.highlight {
+  padding: em(8px, 16px) em(24px, 16px);
+  background: $base02;
+  box-shadow: inset -10px -10px 10px -5px $base03;
+  margin-bottom: em(16px, 16px);
+}
+
+
 
 a {
   text-decoration: none;
