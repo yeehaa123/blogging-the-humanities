@@ -2,7 +2,7 @@
 layout: post
 title: Let's get this thing Started 
 date:   2013-12-04 23:34:27
-categories: jekyll update
+permalink: welcome
 ---
 
 Duis dapibus metus a lorem tincidunt fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam congue, erat ut vulputate euismod, turpis ante fringilla lorem, a mollis dolor nibh et lacus. Duis vel elementum augue. Sed pretium, ligula eget vehicula elementum, nibh nibh hendrerit dolor, a commodo nulla tortor eget ante. Vivamus tincidunt condimentum magna, auctor volutpat quam dignissim sed. Nunc leo mauris, adipiscing in lectus sed, semper euismod nibh. Ut imperdiet sed erat at malesuada. Integer fringilla eros nunc, egestas accumsan massa ultricies a. Duis nec posuere metus, ac varius dui. Quisque ut consectetur dolor. Donec id lobortis diam. Sed blandit arcu a facilisis fringilla. Maecenas ac sodales est.
