@@ -7,6 +7,8 @@
 @import "./partials/_header";
 @import "./partials/_footer";
 
+$max-width: 1024px;
+
 body {
   @include outer-container;
   background: $base3;
@@ -29,6 +31,18 @@ span {
   padding-left: em(30px, 30px);
   padding-right: em(30px, 30px);
   @include row;
+
+  .images {
+    @include row;
+
+    .cover-image {
+     @include span-columns(12);
+    }
+
+    margin-top: em(48px, 16px);
+    margin-bottom: em(64px, 16px);
+  }
+
 
   .post-header {
     h1 { 
